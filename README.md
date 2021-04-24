@@ -1,7 +1,7 @@
 #.  Tutor jancok
 $.pkg install git   
 
-$ git clone https://github.com/deah/arkan-ddos
+$ git clone https://github.com/daeah/arkan-ddos
 
 $ cd arkan-ddos
 
